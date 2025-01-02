@@ -3,7 +3,7 @@ A road96 mod to test stuff on a baseplate (useful for devs)
 ## a better readme is being written don't worry
 # How to download
 - Get the latest version of [bepinex unity il2cpp win x64](https://builds.bepinex.dev/projects/bepinex_be) and extract it in the game folder root
-- Download the latest version of the mod [here](https://github.com/Miroxy12/BeggarsStealer_Road96_Mod/releases)
+- Download the latest version of the mod [here](https://github.com/Miroxy12/BaseplateTesting_Road96_Mod/releases)
 - Extract it in Road 96\BepInEx\plugins
 - Enjoy!
 # How to compile
